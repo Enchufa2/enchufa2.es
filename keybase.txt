@@ -1,0 +1,62 @@
+==================================================================
+https://keybase.io/enchufa2
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.enchufa2.es
+  * I am enchufa2 (https://keybase.io/enchufa2) on keybase.
+  * I have a public key with fingerprint F432 0B54 CF67 6936 3D02  0832 7EE8 1A3F 563B 3315
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "f4320b54cf6769363d0208327ee81a3f563b3315",
+            "host": "keybase.io",
+            "key_id": "7ee81a3f563b3315",
+            "kid": "011143bb121918275cae37cdd5d11576cd423402f4261b162af01266c08bd2942cd00a",
+            "uid": "56f09d5bde4f5ad244b998a2c63a5e19",
+            "username": "enchufa2"
+        },
+        "service": {
+            "hostname": "www.enchufa2.es",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1429619910,
+    "expire_in": 157680000,
+    "prev": "cd61d78ad9b0ec99300af84cff324b82e07d19791b44e82b74f7794b90706ade",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFtkr9rFEEUx9cY4xkQkkLBNIYBxeI85tfO7JyFIFpHkQg2OebHm7v14u5md+/O
+cCRgp51Nmvgv2GilVhZqoWAhYmEvqH+CYHT2SDqnGea9z/vOfN+8J6ePR63l3R8r
+V+9cYWeOffxponVx/cMUmdxto+4UDWG2+TTrQ1mUaVajLvKcUWxibr2QQjHBHKY4
+YVQCJEQzHwtmGCMxaqNBXjUVQcboCjppHmLh0EtdiP6HH84SmBDCmTGEEkUSKmOr
+gUnrXOwIiaWwjlPGMfWcCmKIoNpjQoWwODGOKk6tw1gHudFMLhYeKxcbB9zH2lHO
+jVKJplYwHQNRDVhBmen7EGjI7GDkNUU7bRSi49RC04LGySExmUw6R1QHqlBelHmd
+23wzJAd1XXSb2nq7mMFgeocyPZNmLnQyFIyhrNI8Q10SSFunjS7hVAmiFMFtBA+K
+tIRe2hDBcILDaq6BcZC0ThAnE+2UwWCVYsGsT8J3eEa5SShg6YiSihjOIaFGci+l
+CqaxxEI7QI2xrSxHXR6eqftBskr7ma5H5TygncVHG/PRcitaODHXDEO0eGrpaELW
+P0UHqy9WL+x//fz0Wvz93sXn79+8fjnla1v0/N6r8caXd/tz0QFe6b899/jm3sNf
+u5cWlr7d/Tu8/OfG7wl/dutstnb7ZOsf
+=8Wi+
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/enchufa2
+
+==================================================================
+
